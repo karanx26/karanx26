@@ -19,8 +19,6 @@
 
 <hr />
 
-<h3 align="left">Stats :</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanx26&show_icons=true&locale=en&layout=compact" alt="karanx26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanx26&show_icons=true&locale=en" alt="karanx26" /></p>
