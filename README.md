@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanx26&label=Profile%20views&color=0e75b6&style=flat" alt="karanx26" /> </p>
 
-- 💬 Ask me about **MERN, JAVA, Data Structure**
+- 💬 Ask me about **DevOps, MERN, JAVA**
 
 - 📫 How to reach me **karantandel7464@gmail.com**
 
